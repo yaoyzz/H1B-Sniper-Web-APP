@@ -28,5 +28,5 @@ Inputs -> job title, location, company
 Add filters to further shrink the target roles
 Filters -> case status, time frame, pay, H-1B dependent, full time
 
-#### Screenshot of the Application
+#### Screenshot of the Application-
 ![Interface](static/Interface-Screenshot.png)
