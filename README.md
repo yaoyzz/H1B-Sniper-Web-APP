@@ -1,5 +1,4 @@
 # H1B-Sponsorship-Tracker-Web-APP
-Implemented by TOP GUN Team
 
 ### Data Source
 United States Department of Labor (DOL) website - http://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis
@@ -30,3 +29,4 @@ Filters -> case status, time frame, pay, H-1B dependent, full time
 
 #### Screenshot of the Application:
 ![Interface](static/Interface-Screenshot.png)
+Implemented by TOP GUN Team
